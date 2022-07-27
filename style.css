@@ -43,3 +43,12 @@ a {
     border: 2px solid #505050;
     border-radius: 5px;
 }
+
+.contacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contacts_list li a {
+    color: rgb(255, 115, 0);
+}
