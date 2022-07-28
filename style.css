@@ -3,10 +3,12 @@ body {
     font-family: Verdana;
     max-width: 900px;
     margin: auto;
+    align-items: center;
 }
 
 .photo {
-    border-radius: 10px;
+    border-radius: 25px;
+    margin-top: 30px;
 }
 
 #title, .subtitle, .post_title {
